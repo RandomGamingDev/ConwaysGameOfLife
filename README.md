@@ -1,6 +1,8 @@
 # ConwaysGameOfLife
 A super fast GPU and more specifically WebGL based version of Conway's game of life.
 
+btw RIP Conway man's an absolute chad
+
 - Use h for help
 - Use p to pause & play
 - Use m to switch between place & erase mode
