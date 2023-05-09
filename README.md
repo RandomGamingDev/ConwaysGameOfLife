@@ -1,5 +1,7 @@
 # ConwaysGameOfLife
-A super fast GPU and more specifically WebGL based version of Conway's game of life.
+A super fast GPU and more specifically WebGL based version of Conway's game of life. Simply place stuff using the mouse, move the camera using the scroll wheel, and do the other stuff using the keybinds listed below:
+
+btw RIP Conway man's an absolute chad
 
 - Use h for help
 - Use p to pause & play
