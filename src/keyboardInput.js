@@ -19,7 +19,7 @@ function keyPressed() {
        - Use r to declare a new canvas with a new size
        - Use s to save the world as a png
        - Use l for loading an image to paste (p was already used lmao)
-       - Use esc to escape out of image pasting mode`)
+       - Use esc to escape out of lay mode`)
       break;
       
     case 80: // p for pause/play
