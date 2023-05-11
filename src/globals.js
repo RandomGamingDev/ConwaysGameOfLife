@@ -3,7 +3,7 @@ let fileInput; // eh it's practically a const
 const signs = [-1, 1];
 const dimNames = ["width", "height", "depth"];
 
-let deadCellColor = [0, 0, 0, 0];
+let deadCellColor = [0, 0, 0, 1];
 let aliveCellColor = [1, 1, 1, 1];
 let removeCellColor = [1, 0, 0, 1];
 
