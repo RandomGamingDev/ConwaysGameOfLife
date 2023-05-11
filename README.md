@@ -3,7 +3,7 @@ A super fast GPU and more specifically WebGL based version of Conway's game of l
 
 Try it out at https://randomgamingdev.itch.io/conways-game-of-life!
 
-btw RIP Conway man's an absolute chad
+RIP Conway man's an absolute chad
 
 - Use h for help
 - Use p to pause & play
