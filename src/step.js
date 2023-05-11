@@ -12,8 +12,6 @@ function step() {
   stepShader.setUniform("aliveCellColor", aliveCellColor);
   stepShader.setUniform("deadCellColor", deadCellColor);
   stepShader.setUniform("screenSize", BufferDim().list);
-  buffer.clear();
-  //pbuffer.background(0);
   push();
   {
     buffer.noStroke();
