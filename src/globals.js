@@ -18,7 +18,7 @@ let placing = true;
 let pasteImage = null;
 
 // Run speed
-let running = true;
+let running = false;
 let runSpeed = 1;
 let nextRunTimer = 0;
 
